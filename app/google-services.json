@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1017898279200",
+    "project_id": "szakszerviz-952e7",
+    "storage_bucket": "szakszerviz-952e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017898279200:android:d4ca8fedc4489cea4fb745",
+        "android_client_info": {
+          "package_name": "com.example.szakszervizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017898279200-q9t0eq8t3suulme355e0gfe42jq6no3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.szakszervizapp",
+            "certificate_hash": "ab0882cf6d1de86ced54eefd48304b207fb05d89"
+          }
+        },
+        {
+          "client_id": "1017898279200-oh4e90304k1cucmif636ubhp1h7r21he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBheOdyBIrgHuzwDE1v7Dg0eNiXKm4fHBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017898279200-oh4e90304k1cucmif636ubhp1h7r21he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

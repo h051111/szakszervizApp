@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">szakszervizApp</string>
+    <string name="jelszo">Jelszó</string>
+    <string name="regisztracio">Regisztráció</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="bejelentkezes">Bejelentkezés</string>
+    <string name="vissza">Vissza</string>
+    <string name="jelszo_ujra">Jelszó újra</string>
+    <string name="cim">Cím</string>
+    <string name="foglal">Foglal</string>
+    <string name="ido">Idő</string>
+    <string name="torol">Töröl</string>
+    <string name="kijelentkezes">Kijelentkezés</string>
+    <string name="torles">Törlés</string>
+    <string name="hozzaadas">Hozzáadás</string>
+    <string name="foglalasaim">Foglalásaim</string>
+    <string name="idopontfoglalas">Időpontfoglalás</string>
+</resources>
