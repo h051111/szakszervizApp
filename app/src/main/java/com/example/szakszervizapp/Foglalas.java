@@ -12,3 +12,4 @@ public class Foglalas {
     public Timestamp ido;
     public String szakemberEmail;
 }
+//
